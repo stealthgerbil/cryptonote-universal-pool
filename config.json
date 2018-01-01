@@ -1,8 +1,8 @@
 {
-    "coin": "ducknote",
-    "symbol": "XDN",
-    "coinUnits": 100000000,
-    "coinDifficultyTarget": 240,
+    "coin": "pegglecoin",
+    "symbol": "peggle",
+    "coinUnits": 18446744073709551615,
+    "coinDifficultyTarget": 120,
 
     "logging": {
         "files": {
@@ -105,7 +105,7 @@
 
     "daemon": {
         "host": "127.0.0.1",
-        "port": 42081
+        "port": 42069
     },
 
     "wallet": {
