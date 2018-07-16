@@ -19,7 +19,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "ddehi53dwGSBEXdhTYtga2R3fS4y9hRz4YHAsLABJpH75yUd5EDQmuL3yDBj1mG6MMeDfydY9vp4zFVVNQ99FTYq2PpsFJP2y",
+        "poolAddress": "PkUPGSuFvBpKd3L3xderBBEkEWRXWbM7WTRpjQsCeZLh7gH1Cca9eCLfCuzvUGKNeM7CbdKEsEJ9tDA8EhD4o46s11SNbYB3f",
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
         "ports": [
@@ -100,7 +100,7 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "your_password"
+        "password": "tacocat"
     },
 
     "daemon": {
